@@ -1,6 +1,9 @@
+# My Portfolio
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=selma-bentaiba&label=Profile%20views&color=0e75b6&style=flat" alt="selma-bentaiba" /> 
 </p>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Arsenal+SC&weight=300&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello+World%2C+I'm+Selma+!;Full+Stack+Web+developer;Passionate+about+AI+and+LLMs+;Always+Learning+new+things+%5E%5E" alt="Typing SVG" />
 </a>
@@ -11,9 +14,8 @@
 
 <p>- Fun Fact : I love reading books, check out <a href="https://www.goodreads.com/user/show/76475668">my Goodreads</a></p>
 
-
-
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
@@ -94,6 +96,18 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
+
+<div style="text-align: right;">
+  <img src="https://i.pinimg.com/originals/71/76/c1/7176c12f1fd775ededb7d1ee4260f9c7.gif" alt="Right Corner Image" width="100" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.pinimg.com/originals/88/a9/69/88a969c3e830bbcbff939ea870058d91.gif" alt="Centered Image" width="100" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.pinimg.com/originals/8e/e2/e4/8ee2e4f1e14ab354dc0dcd54c6baa59d.gif" alt="Last Image" width="100" />
+</div>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selma-bentaiba&show_icons=true&locale=en&layout=compact" alt="selma-bentaiba" />
