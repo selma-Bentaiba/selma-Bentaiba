@@ -1,11 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selma-bentaiba&label=Profile%20views&color=0e75b6&style=flat" alt="selma-bentaiba" /> </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arsenal+SC&weight=300&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello+World%2C+I'm+Selma+!;Full+Stack+Web+developer;Passionate+about+AI+and+LLMs+;Always+Learning+new+things+%5E%5E" alt="Typing SVG" /></a>
-</>
-- 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **GitHub Actions & chain of thought CoT**
+<p>- 🔭 I’m currently working on **My Portfolio**</p>
 
-- Fun Fact : I love reading books , checkout my GoodReads [https://www.goodreads.com/user/show/76475668](https://www.goodreads.com/user/show/76475668)
+<p>- 🌱 I’m currently learning **GitHub Actions & chain of thought CoT**<</p>
+
+<p>- Fun Fact : I love reading books , checkout my GoodReads [https://www.goodreads.com/user/show/76475668]</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
