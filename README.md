@@ -1,8 +1,7 @@
-# My Portfolio
-<div>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=selma-bentaiba&label=Profile%20views&color=0e75b6&style=flat" alt="selma-bentaiba" /> 
 </p>
+<div>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Arsenal+SC&weight=300&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello+World%2C+I'm+Selma+!;Full+Stack+Web+developer;Passionate+about+AI+and+LLMs+;Always+Learning+new+things+%5E%5E" alt="Typing SVG" />
 </a>
