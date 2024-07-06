@@ -1,9 +1,8 @@
 # My Portfolio
-
+<div>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=selma-bentaiba&label=Profile%20views&color=0e75b6&style=flat" alt="selma-bentaiba" /> 
 </p>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Arsenal+SC&weight=300&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello+World%2C+I'm+Selma+!;Full+Stack+Web+developer;Passionate+about+AI+and+LLMs+;Always+Learning+new+things+%5E%5E" alt="Typing SVG" />
 </a>
@@ -96,26 +95,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
-
-<p align="right">
-  <img src="https://i.pinimg.com/originals/71/76/c1/7176c12f1fd775ededb7d1ee4260f9c7.gif" alt="Right Corner Image" width="100" />
-</p>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/88/a9/69/88a969c3e830bbcbff939ea870058d91.gif" alt="Centered Image" width="100" />
-</p>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/8e/e2/e4/8ee2e4f1e14ab354dc0dcd54c6baa59d.gif" alt="Last Image" width="100" />
-</p>
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
   <a href="https://linkedin.com/in/selma-bentaiba" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selma-bentaiba" height="30" width="40" />
-  </a>
   <a href="https://discord.gg/selma963" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="selma963" height="30" width="40" />
   </a>
 </p>
+</div>
