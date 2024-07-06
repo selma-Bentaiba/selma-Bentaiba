@@ -1,7 +1,5 @@
 # My Portfolio
-<div style="text-align: center;">
-  <img src="https://i.pinimg.com/originals/8e/e2/e4/8ee2e4f1e14ab354dc0dcd54c6baa59d.gif" alt="Last Image" width="100" />
-</div>
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=selma-bentaiba&label=Profile%20views&color=0e75b6&style=flat" alt="selma-bentaiba" /> 
 </p>
@@ -99,22 +97,20 @@
   </a> 
 </p>
 
-<div style="text-align: right;">
+<p align="right">
   <img src="https://i.pinimg.com/originals/71/76/c1/7176c12f1fd775ededb7d1ee4260f9c7.gif" alt="Right Corner Image" width="100" />
-</div>
-
-<div style="text-align: center;">
-  <img src="https://i.pinimg.com/originals/88/a9/69/88a969c3e830bbcbff939ea870058d91.gif" alt="Centered Image" width="100" />
-</div>
-
-
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selma-bentaiba&show_icons=true&locale=en&layout=compact" alt="selma-bentaiba" />
 </p>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/88/a9/69/88a969c3e830bbcbff939ea870058d91.gif" alt="Centered Image" width="100" />
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/8e/e2/e4/8ee2e4f1e14ab354dc0dcd54c6baa59d.gif" alt="Last Image" width="100" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
   <a href="https://linkedin.com/in/selma-bentaiba" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selma-bentaiba" height="30" width="40" />
@@ -122,8 +118,4 @@
   <a href="https://discord.gg/selma963" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="selma963" height="30" width="40" />
   </a>
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=selma-bentaiba&show_icons=true&locale=en" alt="selma-bentaiba" />
 </p>
