@@ -5,7 +5,7 @@
 
 <p>- 🌱 I’m currently learning **GitHub Actions & chain of thought CoT**<</p>
 
-<p>- Fun Fact : I love reading books , checkout [my Goodreads](https://www.goodreads.com/user/show/76475668)</p>
+<p>- Fun Fact : I love reading books , checkout ([my Goodreads](https://www.goodreads.com/user/show/76475668))</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
