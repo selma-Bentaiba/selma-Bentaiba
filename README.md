@@ -111,3 +111,5 @@
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=selma-bentaiba&show_icons=true&locale=en" alt="selma-bentaiba" />
 </p>
+
+![](https://github.com/selma-Bentaiba/github-profile-readme-generator/blob/master/_.gif)
