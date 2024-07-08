@@ -3,7 +3,7 @@
 </p>
 <div>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Arsenal+SC&weight=1000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Hello+World%2C+I'm+Selma+!;Full+Stack+Web+developer;Passionate+about+AI+and+LLMs+;Always+Learning+new+things+%5E%5E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Arsenal+SC&weight=700&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Hello+World%2C+I'm+Selma+!;Full+Stack+Web+developer;Passionate+about+AI+and+LLMs+;Always+Learning+new+things+%5E%5E" alt="Typing SVG" />
 </a>
 
 <p>- 🔭 I’m currently working on <strong>My Portfolio</strong></p>
