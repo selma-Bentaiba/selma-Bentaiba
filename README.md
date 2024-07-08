@@ -1,4 +1,4 @@
-<p align="left"> 
+m<p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=selma-bentaiba&label=Profile%20views&color=0e75b6&style=flat" alt="selma-bentaiba" /> 
 </p>
 <div>
@@ -9,6 +9,8 @@
 <div style="position: relative; height: 0;" style="margin: 20px;">
   <img src="https://github.com/selma-Bentaiba/github-profile-readme-generator/blob/master/pcAnimation.gif" style="position: absolute; top: 0; right: 0; width: 300px; height: auto;"/>
 </div>
+<p></p>
+<p></p>
 
 <p>- I am a Computer Science Student, I'm doing my Bachelor studies at USTHB </p>
 
