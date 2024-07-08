@@ -5,6 +5,10 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Arsenal+Code&size=25&pause=1500&&color=110D55&center=true&vCenter=true&random=false&width=435&height=108&lines=Hello+World%2C+I'm+Selma+!;Full+Stack+Web+developer;Passionate+about+AI+and+LLMs+;Always+Learning+new+things+%5E%5E" alt="Typing SVG" />
 </a>
+<div style="position: relative; height: 0;">
+  <img src="https://github.com/your-username/your-repo/blob/master/pcAnimation.gif" style="position: absolute; top: 0; right: 0; width: 100px;"/>
+</div>
+
 
 <p>- 🔭 I’m currently working on <strong>My Portfolio</strong></p>
 
@@ -111,7 +115,5 @@
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=selma-bentaiba&show_icons=true&locale=en" alt="selma-bentaiba" />
 </p>
-<div align="center" style="overflow: hidden; width: 50%;">
-  <img src="https://github.com/selma-Bentaiba/github-profile-readme-generator/blob/master/roundgreen.gif" style="width: 100vw; object-fit: cover; height: 200px;"/>
-</div>
+
 
