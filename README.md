@@ -10,8 +10,11 @@
   <img src="https://github.com/selma-Bentaiba/github-profile-readme-generator/blob/master/pcAnimation.gif" style="position: absolute; top: 0; right: 0; width: 300px; height: auto;"/>
 </div>
 
+<p>- I am a Computer Science Student, I'm doing my Bachelor studies at USTHB </p>
 
-<p>- 🔭 I’m currently working on <strong>My Portfolio</strong></p>
+<p>- I am interested in the world of Artificial intelligence </p>
+
+<p>- 🔭 I’m currently working on <strong>My Portfolio's website </strong></p>
 
 <p>- 🌱 I’m currently learning <strong>GitHub Actions & chain of thought CoT</strong></p>
 
