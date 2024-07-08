@@ -112,6 +112,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=selma-bentaiba&show_icons=true&locale=en" alt="selma-bentaiba" />
 </p>
 <div align="center" style="overflow: hidden; width: 100%;">
-  <img src="https://github.com/selma-Bentaiba/github-profile-readme-generator/blob/master/_.gif" style="width: 100vw; object-fit: cover; height: 200px;"/>
+  <img src="https://github.com/selma-Bentaiba/github-profile-readme-generator/blob/master/_1.gif" style="width: 100vw; object-fit: cover; height: 200px;"/>
 </div>
 
