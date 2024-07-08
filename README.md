@@ -3,10 +3,10 @@
 </p>
 <div>
 <a href="https://git.io/typing-svg";>
-  <img src="https://readme-typing-svg.demolab.com?font=Arsenal+Code&size=28&pause=1500&&color=110D55&center=true&vCenter=true&random=false&width=435&height=108&lines=Hello+World%2C+I'm+Selma+!;Full+Stack+Web+developer;Passionate+about+AI+and+LLMs+;Always+Learning+new+things+%5E%5E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Arsenal+Code&size=30&pause=1500&&color=110D55&center=true&vCenter=true&random=false&width=600&height=108&lines=Hello+World%2C+I'm+Selma+!;Full+Stack+Web+developer;Passionate+about+AI+and+LLMs+;Always+Learning+new+things+%5E%5E" alt="Typing SVG" />
 </a>
   
-<div style="position: relative; height: 0; style="margin-buttom: 20px;">
+<div style="position: relative; height: 0;" style="margin: 20px;">
   <img src="https://github.com/selma-Bentaiba/github-profile-readme-generator/blob/master/pcAnimation.gif" style="position: absolute; top: 0; right: 0; width: 300px; height: auto;"/>
 </div>
 
