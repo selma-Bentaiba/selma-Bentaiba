@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Arsenal+Code&size=25&pause=1500&&color=110D55&center=true&vCenter=true&random=false&width=435&height=108&lines=Hello+World%2C+I'm+Selma+!;Full+Stack+Web+developer;Passionate+about+AI+and+LLMs+;Always+Learning+new+things+%5E%5E" alt="Typing SVG" />
 </a>
 <div style="position: relative; height: 0;">
-  <img src="https://github.com/selma-Bentaiba/github-profile-readme-generator/blob/master/pcAnimation.gif" style="position: absolute; top: 0; right: 0; width: 100px;"/>
+  <img src="https://github.com/selma-Bentaiba/github-profile-readme-generator/blob/master/pcAnimation.gif" style="position: right; top: 0; right: 0; width: 100px;"/>
 </div>
 
 
