@@ -117,6 +117,7 @@
 </div>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selma-bentaiba&show_icons=true&locale=en&layout=compact" alt="selma-bentaiba" />
+[![Selma's GitHub stats](https://github-readme-stats.vercel.app/api?username=selma-bentaiba)](https://github.com/selma/github-readme-stats)
 </p>
 
 <p>&nbsp;
