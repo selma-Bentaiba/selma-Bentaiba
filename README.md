@@ -117,12 +117,21 @@
 </div>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selma-bentaiba&show_icons=true&locale=en&layout=compact" alt="selma-bentaiba" />
-[![Selma's GitHub stats](https://github-readme-stats.vercel.app/api?username=selma-bentaiba)](https://github.com/selma/github-readme-stats)
 </p>
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=selma-bentaiba&show_icons=true&locale=en" alt="selma-bentaiba" />
 </p>
 
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=selma-Bentaiba&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=selma-Bentaiba&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=selma-Bentaiba&show_icons=true" />
+</picture>
 
