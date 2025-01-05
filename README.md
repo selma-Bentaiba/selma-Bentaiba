@@ -19,7 +19,7 @@
 
 <p>- 🔭 I’m currently working on <strong>My Portfolio's website </strong></p>
 
-<p>- 🌱 I’m currently learning <strong>GitHub Actions & chain of thought CoT</strong></p>
+<p>- 🌱 I’m currently learning <strong> HOW TO LEARN :> </strong></p>
 
 <p>- Fun Fact : I love reading books, check out <a href="https://www.goodreads.com/user/show/76475668">my Goodreads</a></p>
 
