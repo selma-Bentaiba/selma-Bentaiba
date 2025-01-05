@@ -17,7 +17,7 @@
 
 <p>- I am interested in the world of Artificial intelligence </p>
 
-<p>- 🔭 I’m currently working on <strong>My website : HOPEFULLY I LUNCH IT SOON</strong></p>
+<p>- 🔭 I’m currently working on <strong>My website : HOPEFULLY I WILL LUNCH IT SOON</strong></p>
 
 <p>- 🌱 I’m currently learning <strong> HOW TO LEARN :> </strong></p>
 
