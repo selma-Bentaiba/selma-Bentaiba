@@ -13,7 +13,7 @@
 <p> </p>
 <p> </p>
 
-<p>- I am a Computer Science Student, I'm doing my Bachelor studies at USTHB </p>
+<p>- I am a Computer Science Student, I'm doing my masters at USTHB </p>
 
 <p>- I am interested in the world of Artificial intelligence </p>
 
